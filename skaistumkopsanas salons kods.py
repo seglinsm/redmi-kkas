@@ -1,2 +1,1 @@
-class Skaistumkopsana: 
-    def __init__(self,
+python -m pip install pysimplegui
