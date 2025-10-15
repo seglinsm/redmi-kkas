@@ -1,4 +1,4 @@
-python -m pip install pysimpleguiclass Skaistumkopsana:
+class Skaistumkopsana:
     def __init__(self,
                  pakalpojuma_kategorija: str = "",
                  pakalpojuma_nosaukums: str = "",
